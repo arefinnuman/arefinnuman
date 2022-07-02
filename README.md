@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Md Shamsul Arifin
 #### Web Developer
-![Web Developer](https://pbs.twimg.com/profile_banners/1258410564453195777/1656770867/600x200 )
+![Web Developer](https://cdn1.dronahq.com/wp-content/uploads/2022/03/banner-database-gui.svg)
 
 I am a fresh graduate of Computer Science, with a major in Networking Engineering. Seeking a position as a Network Engineer where I can utilize my exceptional expertise and knowledge in designing, installing, and maintaining networks. Also seeking a position where I can use my strong analytical problem-solving skills to effectively contribute to an IT service industry and help the organization grow further. Besides that, I have the ability to handle multiple tasks at one time while still achieving the goals of the company, excellent communication & interpersonal relations, and am committed to maintaining the high-quality standards required in this competitive market.
 
