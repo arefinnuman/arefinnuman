@@ -14,7 +14,7 @@ Skills: REACT / JS / HTML / CSS
 
 I am a fresh graduate of Computer Science, with a major in Software Engineering. Seeking a position as a Web Developing where I can utilize my exceptional expertise and knowledge in designing and development. Also seeking a position where I can use my strong analytical problem-solving skills to effectively contribute to an IT service industry and help the organization grow further. Besides that, I have the ability to handle multiple tasks at one time while still achieving the goals of the company, excellent communication & interpersonal relations, and am committed to maintaining the high-quality standards required in this competitive market.
 
-![Web Developer](https://cdn1.dronahq.com/wp-content/uploads/2022/03/banner-database-gui.svg)
+![Web Developer](https://media-exp1.licdn.com/dms/image/D5616AQEoc_xoOJEvdQ/profile-displaybackgroundimage-shrink_350_1400/0/1670439516128?e=1675900800&v=beta&t=9_4iR-I3THUbyfRbKyJvTcbsFPZwxPqP1n4fH0uTM5s)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
