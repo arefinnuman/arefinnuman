@@ -9,30 +9,15 @@ Skills: REACT / JS / HTML / CSS
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning Java Script 
 - 👯 I’m looking to collaborate on Github or Youtube 
-- 💬 Ask me about Web Development or PcStuffs 
 - 📫 How to reach me: Soical Media 
 - ⚡ Fun fact: love to listen music 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arefinnuman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/arefin_numan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arefinnuman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/arefinnuman)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on **React**
-
-- 🌱 I’m currently learning **Typescript**
-
 - 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
-
 - 💬 Ask me about **React, Javascript**
-
 - 📫 Reach me **arefinnuman2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/@arefinnuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@arefinnuman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-shamsul-arifin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@arefinnuman" height="30" width="40" /></a>
 <a href="https://fb.com/@arefinnuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@arefinnuman" height="30" width="40" /></a>
 <a href="https://instagram.com/@arefinnuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@arefinnuman" height="30" width="40" /></a>
 </p>
