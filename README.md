@@ -4,7 +4,7 @@
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning Java Script 
+- 🌱 I’m currently learning Nest Js and Next Js 
 - 👯 I’m looking to collaborate on Github or Youtube 
 - 📫 How to reach me: Soical Media 
 - ⚡ Fun fact: love to listen music 
