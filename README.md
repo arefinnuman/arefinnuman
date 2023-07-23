@@ -10,7 +10,7 @@ Skills: NEXTJS, REACTJS, NODEJS, EXPRESSJS
 - ⚡ Fun fact: love to listen music 
 - 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
 💬: Ask me about **React, Javascript**
-- 📫 Reach me **arefinnuman2000@gmail.com**
+- 📫 Reach me **arifin.shamsul.99@gmail.com**
 
 I am a fresh graduate of Computer Science, with a major in Software Engineering. I am seeking a position as a Web developer where I can utilize my exceptional expertise and knowledge in design and development. I am also seeking a position where I can use my strong analytical problem-solving skills to effectively contribute to an IT service industry and help the organization grow further. Besides that, I have the ability to handle multiple tasks at once while still achieving the goals of the company, have excellent communication and interpersonal relations, and am committed to maintaining the high-quality standards required in this competitive market.
 
